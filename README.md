@@ -13,10 +13,10 @@ Github, GitLab, Gimp, Docker, CI/CD, WooCommerce, Ajax, Agile/Scrum, Regex.
 
 I'm currently working on a B2B project also my professional development in front technologies.
 
-[//]: # (## GitHub Stats)
+## GitHub Stats
 
-[//]: # ()
-[//]: # (![Your GitHub Stats]&#40;https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical&#41;)
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
 
 ## Connect with Me
 
