@@ -1,20 +1,16 @@
 # Hi, I'm Mohammad Saber! 👋
 
 ## About Me
-React and WordPress developer with a proven track record of successfully implementing projects of varying scales for over 5 years.
+Web Developer specializing in JavaScript (React, TypeScript, Next.js) and WordPress, with 5+ years of experience. Successfully delivered 30+ applications, improving performance, UX, and maintainability. Skilled in modern frontend architecture, state management, and CMS integrations, with a focus on writing clean, reusable code. Ability to convert designs into pixel-perfect UIs, enforce best practices, and drive Agile delivery under tight deadlines. Passionate about analyzing complex problems to develop efficient solutions.
 
 ## Skills
-
-HTML, CSS, JavaScript, Php, Bash, ReactJS Angular, Bootstrap, jQuery, WordPress, Git, NPM, Composer, Yarn, Yum,
-Bower, Linux-based systems [Debian-Ubuntu-CentOs-Mint], Windows, Apache, Nginx, Cpanel, DirectAdmin, Plesk,
-Github, GitLab, Gimp, Docker, CI/CD, WooCommerce, Ajax, Agile/Scrum, Regex.
-
-## Current Work
-
-I'm currently working on a B2B project also my professional development in front technologies.
+- Frontend Development: HTML, CSS, JavaScript, ReactJS, TypeScript, NextJS, Angular, Tailwind, Bootstrap, RxJS, jQuery, Ajax
+- Backend & CMS: PHP, WordPress, WooCommerce
+- Development Tools & Workflows: NPM, Composer, Yarn, Git, GitHub, GitLab, Bitbucket, Agile/Scrum, CI/CD, Docker
+- Systems & Servers: Linux [Debian, Ubuntu, CentOS, Mint], Windows, Apache, Nginx, cPanel, DirectAdmin, Plesk
+- Other: Bash, Regex, Gimp
 
 ## GitHub Stats
-
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhmdsbr&show_icons=true&theme=radical)
 
